@@ -4,7 +4,7 @@ My name is Darsen, I'm from Moscow! 🙈 <br />
 I am a Fullstack JavaScript developer. 😎 <br />
 I love cycling, travel and video games. 🙀 <br />
 
-### Check my projects: [Restaurant](https://github.com/Alexoch-AI/Restaurant/), [Fly Friends](https://fly-friends.herokuapp.com/), [MiniКинопоиск](https://alexoch-ai.github.io/myIMDb/)
+### Check my projects: [Coliseum](https:/dbforgame.herokuapp.com/),
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
