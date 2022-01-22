@@ -17,7 +17,7 @@ I love cycling, travel and video games. 🙀 <br />
 
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=Alexoch-AI)
+![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
 
 ### 💬 Mail me: darsenungarlinov00@gmail.com
 ### ⚡️ Telegram: @d4rse
