@@ -20,4 +20,4 @@ I love cycling, travel and video games. 🙀 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
 
 ### 💬 Mail me: darsenungarlinov00@gmail.com
-### ⚡️ Telegram: @d4rse
+### ⚡️ Telegram: @d4rse https://t.me/d4rse
