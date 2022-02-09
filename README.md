@@ -23,4 +23,4 @@ I love coding and video games. 🙀 <br />
 
 ### 💬 Mail me: darsenungarlinov00@gmail.com
 ### ⚡️ Telegram: @d4rse https://t.me/d4rse
-### My website: https://darsen.vercel.app
+### My website: https://d4rsen.vercel.app/
