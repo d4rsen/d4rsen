@@ -4,7 +4,7 @@ My name is Darsen, I'm from Moscow! 🙈 <br />
 I am a Fullstack JavaScript developer. 😎 <br />
 I love coding and video games. 🙀 <br />
 
-### Check my projects: [Coliseum(fullstack app, mmorpg websocket)](https://dbforgame.herokuapp.com), [Game-store(sass)](https://ninja-store.vercel.app/),
+### Check my projects: [Coliseum(fullstack app, mmorpg websocket)](https://dbforgame.herokuapp.com), [My Website)](https://d4rsen.vercel.app/),
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
