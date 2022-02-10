@@ -19,11 +19,7 @@ I love coding and video games. 🙀 <br />
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 
-
-<br />
-
-![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
-
 ### 💬 Mail me: darsenungarlinov00@gmail.com
 ### ⚡️ Telegram: @d4rse https://t.me/d4rse
 
+![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
