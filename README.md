@@ -6,7 +6,7 @@ I love coding and video games. 🙀 <br />
 
 ### Check my projects: [COLISEUM](https://coliseum-game.vercel.app/home)
 
-### My website: [d4rsen.vercel.app](https://d4rsen.vercel.app/)
+### CHECK my website: [d4rsen.vercel.app](https://d4rsen.vercel.app/)
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
