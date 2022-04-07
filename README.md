@@ -19,6 +19,17 @@ I love coding and video games. 🙀 <br />
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
+
+ . | .
+--- | --- 
+![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
+[![COLISEUM](https://github-readme-stats.vercel.app/api/pin/?username=d4rsen&repo=Coliseum&theme=radical&show_owner=true)](https://github.com/d4rsen/Coliseum)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=d4rsen&repo=d4rsen-portfolio&theme=radical&show_owner=true)](https://github.com/d4rsen/d4rsen-portfolio)
+| ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rsen"></img>
+
 ### 💬 Mail me: darsenungarlinov00@gmail.com
 ### ⚡️ Telegram: @d4rse https://t.me/d4rse
 
