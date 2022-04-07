@@ -1,3 +1,4 @@
+![](./assets/rinnegan.gif)
 # Hi there!🤘
 
 My name is Darsen, I'm from Moscow! 🙈 <br />
