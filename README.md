@@ -18,12 +18,21 @@ I am a Fullstack JavaScript/TypeScript developer. 😎 <br />
 ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
 ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass)
 ![postcss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A)
+![figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
 ![BootsTrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
 ![NodeJS](https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/express.js-20232A?style=for-the-badge&logo=express)
 ![socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens)
 ![vercel](https://img.shields.io/badge/vercel-20232A?style=for-the-badge&logo=vercel)
 ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
+![sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
+![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
+![eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
+![git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
+![gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
+![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
+![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 
 
 ### 📈 GitHub Activity Graph:
