@@ -2,7 +2,7 @@
 # Hi there!🤘
 
 My name is Darsen, I'm from Moscow! 🙈 <br />
-I am a Fullstack JavaScript developer. 😎 <br />
+I am a Fullstack JavaScript/TypeScript developer. 😎 <br />
 
 ### Check my projects: [COLISEUM](https://coliseum-game.vercel.app/home)
 ### Check my website: [d4rsen.vercel.app](https://d4rsen.vercel.app/)
