@@ -64,16 +64,22 @@
 <div align="center">
  <br> <br>
 
-### 📈 GitHub Activity Graph:
+  <h2> 📈 GitHub Activity Graph: </h2>
+  
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
-
- </div>
- 
- . | .
---- | --- 
+  
+  <br> <br>
+  
+![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&layout=compact)
+  
+<br> <br>
+  
 ![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
-| ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&layout=compact)
-[![COLISEUM](https://github-readme-stats.vercel.app/api/pin/?username=d4rsen&repo=Coliseum&theme=radical&show_owner=true)](https://github.com/d4rsen/Coliseum)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=d4rsen&repo=d4rsen-portfolio&theme=radical&show_owner=true)](https://github.com/d4rsen/d4rsen-portfolio)
+  
+  <br> <br>
+  
 
+  
 ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
+  
+</div>
