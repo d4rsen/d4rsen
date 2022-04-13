@@ -20,9 +20,9 @@ I am a Fullstack JavaScript developer. 😎 <br />
 ![BootsTrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/express.js-333333?style=for-the-badge&logo=express)
-![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-![socket.io](https://img.shields.io/badge/socket.io-white?style=for-the-badge&logo=socket.io&logoColor=black)
+![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### 📈 GitHub Activity Graph:
