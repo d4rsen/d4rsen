@@ -1,12 +1,37 @@
-![](./assets/rinnegan.gif)
-# Hi there!🤘
+<div align="center">
+  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/rinnegan.gif" alt="header"/>
+</div>
 
-My name is Darsen, I'm from Moscow! 🙈 <br />
-I am a Fullstack JavaScript/TypeScript developer. 😎 <br />
 
-### Check my projects: [COLISEUM](https://coliseum-game.vercel.app/home)
-### Check my website: [d4rsen.vercel.app](https://d4rsen.vercel.app/)
+<h2 align="center">Hi there!🤘</h2>
+<p align="center">
+  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
+  </samp>
+  <br> <br>
+</p>
 
+
+<h2 align="center">My projects 👨‍💻</h2>
+<p align="center">
+  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a>
+  </samp>
+ <br> <br>
+ <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank">d4rsen.vercel.app</a>
+  </samp>
+  <br> <br>
+</p>
+
+
+<h2 align="center">💬 Reach me on</h2>
+<br> <br>
+<p align="center" align='right'>
+  <a target="_blank"href="mailto:darsenungarlinov00@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://t.me/d4rse"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<h2 align="center">My skills</h2>
+<br> <br>
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
@@ -33,19 +58,22 @@ I am a Fullstack JavaScript/TypeScript developer. 😎 <br />
 ![gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
 ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
 ![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+ 
+ </div>
 
+<div align="center">
+ <br> <br>
 
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
 
+ </div>
+ 
  . | .
 --- | --- 
 ![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
 | ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&layout=compact)
 [![COLISEUM](https://github-readme-stats.vercel.app/api/pin/?username=d4rsen&repo=Coliseum&theme=radical&show_owner=true)](https://github.com/d4rsen/Coliseum)
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=d4rsen&repo=d4rsen-portfolio&theme=radical&show_owner=true)](https://github.com/d4rsen/d4rsen-portfolio)
-
-### ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)     darsenungarlinov00@gmail.com
-### ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)     https://t.me/d4rse
 
 ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
