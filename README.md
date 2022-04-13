@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/rinnegan.gif" alt="header"/>
+  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/giphy.gif" alt="header"/>
 </div>
 
 
@@ -78,7 +78,12 @@
   
   <br> <br>
   
-
+  
+  <div align="center">
+  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/rinnegan.gif" alt="header"/>
+</div>
+  
+ <br> <br>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
   
