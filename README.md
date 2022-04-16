@@ -50,7 +50,7 @@
 ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
 ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
-![NestJs](https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234D)
+![NestJs](https://img.shields.io/badge/nest-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234D)
 ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)
 ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker)
 ![Babel](https://img.shields.io/badge/babel-20232A?style=for-the-badge&logo=babel)
@@ -68,9 +68,7 @@
 ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
 ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
 ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/yarn-20232A?style=for-the-badge&logo=yarn)
-![MacOs](https://img.shields.io/badge/macOs-20232A?style=for-the-badge&logo=apple)
-![Linux](https://img.shields.io/badge/linux-20232A?style=for-the-badge&logo=linux)
+
   
  
  </div>
