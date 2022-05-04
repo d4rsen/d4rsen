@@ -70,7 +70,6 @@
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
-  ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier)
   ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
   ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
