@@ -101,8 +101,7 @@
   <br><br>
 
   <div align="center">
-    <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/react.gif" alt="header"/>
-    <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/reactive.gif" alt="header"/>
+    <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/madara2.gif" alt="header"/>
   </div>
 
   <br> <br>
