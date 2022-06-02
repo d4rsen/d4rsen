@@ -57,6 +57,7 @@
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
   ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
+  ![GraphQL](https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=GraphQL&logoColor=e535ab)
   ![NestJs](https://img.shields.io/badge/nest-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234D)
   ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)
   ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker)
