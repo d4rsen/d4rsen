@@ -14,10 +14,10 @@
 <h2 align="center">My projects 👨‍💻</h2>
 
 <p align="center">
-  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a>
+  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank"><b>COLISEUM</b></a>
   </samp>
   <br> <br>
-  <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank">d4rsen.vercel.app</a>
+  <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank"><b>https://d4rsen.vercel.app</b></a>
   </samp>
   <br> <br>
 </p>
