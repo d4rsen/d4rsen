@@ -1,34 +1,21 @@
-
-
-  ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
-
-
+![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
 
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
+  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
   </samp>
   <br> <br>
 </p>
-
-
-<h2 align="center">My projects 👨‍💻</h2>
-
-<p align="center">
-  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank"><b>COLISEUM</b></a>
-  </samp>
-  <br> <br>
-  <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank"><b>https://d4rsen.vercel.app</b></a>
-  </samp>
-  <br> <br>
-</p>
-
 
 <h2 align="center">💬 Reach me on</h2>
 
 <p align="center" align='right'>
   <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://d4rsen.vercel.app"><img
+    src="https://img.shields.io/badge/d4rsen.vercel.app-20232A?style=for-the-badge&logo=vercel"/></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://d4rsen.netlify.app"><img
+    src="https://img.shields.io/badge/d4rsen.netlify.app-20232A?style=for-the-badge&logo=netlify"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/d4rse"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -76,15 +63,23 @@
 
 <div align="center">
 
-  <br><br>
+  <br></br>
 
   ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical)
+  
+  <br></br>
 
   ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)
+  
+  <br></br>
 
   ![d4rsen's github
   stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
+  
+  <br></br>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
+  
+  <br></br>
 
 </div>
