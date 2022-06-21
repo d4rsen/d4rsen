@@ -1,23 +1,11 @@
-<div align="center">
+![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
 
-  ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
-
-  <br></br>
-
-  ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)
-  
-  <br></br>
-
-  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical)
-  
-  <br></br>
-
-  ![d4rsen's github
-  stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
-  
-  <br></br>
-
-</div>
+<h2 align="center">Hi there!🤘</h2>
+<p align="center">
+  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
+  </samp>
+  <br> <br>
+</p>
 
 <h2 align="center">💬 Reach me on</h2>
 
@@ -74,6 +62,21 @@
 </div>
 
 <div align="center">
+
+  <br></br>
+
+  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical)
+  
+  <br></br>
+
+  ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)
+  
+  <br></br>
+
+  ![d4rsen's github
+  stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
+  
+  <br></br>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
   
