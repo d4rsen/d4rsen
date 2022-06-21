@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/giphy.gif" alt="header"/>
-</div>
+
+
+  ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
+
 
 
 <h2 align="center">Hi there!🤘</h2>
@@ -25,8 +26,6 @@
 
 <h2 align="center">💬 Reach me on</h2>
 
-<br><br>
-
 <p align="center" align='right'>
   <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
@@ -45,15 +44,12 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
   ![NextJs](https://img.shields.io/badge/next-20232A?style=for-the-badge&logo=next.js)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
-  ![Mobx](https://img.shields.io/badge/mobx-20232A?style=for-the-badge&logo=mobx)
   ![ReactQuery](https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=reactquery)
   ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
   ![Scss](https://img.shields.io/badge/scss-20232A?style=for-the-badge&logo=sass)
-  ![Sass](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass)
   ![PostCss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
   ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
@@ -82,30 +78,12 @@
 
   <br><br>
 
-  <h2> 📈 GitHub Activity Graph: </h2>
-
-  ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
-
-  <br><br>
-
   ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical)
-
-  <br><br>
 
   ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)
 
-  <br><br>
-
   ![d4rsen's github
   stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
-
-  <br><br>
-
-  <div align="center">
-    <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/rinnegan.gif" alt="header"/>
-  </div>
-
-  <br> <br>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
 
