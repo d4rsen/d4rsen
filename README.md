@@ -1,5 +1,15 @@
 ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
 
+<div align="center">
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F700DD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Any+technique+is+worthless;before+my+eyes)](https://git.io/typing-svg)
+
+<br><br>
+
+</div>
+
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
   <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
