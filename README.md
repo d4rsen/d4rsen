@@ -65,7 +65,7 @@
 
   <br></br>
 
-  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&langs_count=20)
+  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&langs_count=20&layout=compact)
   
   <br></br>
 
