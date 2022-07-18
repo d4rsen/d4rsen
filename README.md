@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F700DD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Any+technique+is+worthless;before+my+eyes)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F700DD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Any+technique+is+worthless;before+my+eyes)
 
 <br><br>
 
