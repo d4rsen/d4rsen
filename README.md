@@ -4,7 +4,7 @@
 
 <br><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=5000&color=E800F7&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Darsen%2C+I'm+from+Moscow!;I+am+a+Frontend+JavaScript%2FTypeScript+developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=E800F7&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Darsen%2C+I'm+from+Moscow!;I+am+a+Frontend+JavaScript%2FTypeScript+developer)
 
 </div>
 
