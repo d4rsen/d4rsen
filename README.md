@@ -1,6 +1,4 @@
-<hr></hr>
-
-![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=synthwave-84)
+![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
 
 <hr></hr>
 
@@ -70,16 +68,16 @@
 
   <br></br>
 
-  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=synthwave&langs_count=20&layout=compact)
+  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&langs_count=20&layout=compact)
   
   <br></br>
 
-  ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=synthwave)
+  ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)
   
   <br></br>
 
   ![d4rsen's github
-  stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=synthwave&include_all_commits=true)
+  stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
   
   <br></br>
 
