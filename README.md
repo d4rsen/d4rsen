@@ -1,4 +1,8 @@
+<hr></hr>
+
 ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=synthwave-84)
+
+<hr></hr>
 
 <div align="center">
 
@@ -8,14 +12,7 @@
 
 </div>
 
-<h2 align="center">Hi there!🤘</h2>
-<p align="center">
-  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
-  </samp>
-  <br> <br>
-</p>
-
-<h2 align="center">💬 Reach me on</h2>
+<hr></hr>
 
 <p align="center" align='right'>
   <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
@@ -28,9 +25,7 @@
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">My skills</h2>
-
-<br><br>
+<hr></hr>
 
 <div align="center">
 
@@ -69,11 +64,13 @@
 
 </div>
 
+<hr></hr>
+
 <div align="center">
 
   <br></br>
 
-  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=synthwave&langs_count=20)
+  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=synthwave&langs_count=20&layout=compact)
   
   <br></br>
 
