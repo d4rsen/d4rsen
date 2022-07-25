@@ -83,7 +83,7 @@
   
   <br></br>
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
+  ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen&left_color=black&right_color=black)
     
   <br></br>
 
