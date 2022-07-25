@@ -79,7 +79,7 @@
   
   <br></br>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=d4rsen&theme=radical&column=3&margin-w=15&margin-h=15)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=d4rsen&theme=radical&column=3&margin-w=15&margin-h=15)
   
   <br></br>
 
