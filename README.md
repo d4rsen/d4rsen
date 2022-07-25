@@ -12,6 +12,14 @@
 
 <hr></hr>
 
+<div align="center">
+
+![](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)
+  
+</div>
+
+<hr></hr>
+
 <p align="center" align='right'>
   <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
@@ -85,10 +93,6 @@
 
   ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen&left_color=black&right_color=black)
   
-  <span></span>
-  
-  ![](https://profile-counter.glitch.me/d4rsen/count.svg)
-    
   <br></br>
 
 </div>
