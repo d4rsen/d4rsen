@@ -1,23 +1,21 @@
 <style type="text/css">
+    .wrapper {
+        animation: rotate 3s linear infinite;
+    }
 
-			.wrapper {
-				animation: rotate 3s linear infinite;
-			}
+    @keyframes rotate {
+        0% {
+            transform: scale(1);
+        }
 
-			@keyframes rotate {
-				0% {
-		            transform: scale(1);
-                }
+        50% {
+            transform: scale(0.95);
+        }
 
-	            50% {
-		            transform: scale(0.95);
-	            }
-
-	            100% {
-		            transform: scale(1);
-	            }
-			}
-
+        100% {
+            transform: scale(1);
+        }
+    }
 </style>
 
 <div class="wrapper">
