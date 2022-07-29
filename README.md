@@ -1,8 +1,7 @@
 <div class="wrapper" style="background: rgb(0,243,255);
         background: -moz-radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
         background: -webkit-radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
-        background: radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00f3ff",endColorstr="#ff00e6",GradientType=1);">
+        background: radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);">
 
 [![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
 
