@@ -1,3 +1,26 @@
+<style type="text/css">
+
+			.wrapper {
+				animation: rotate 3s linear infinite;
+			}
+
+			@keyframes rotate {
+				0% {
+		            transform: scale(1);
+                }
+
+	            50% {
+		            transform: scale(0.95);
+	            }
+
+	            100% {
+		            transform: scale(1);
+	            }
+			}
+		</style>
+
+<div class="wrapper">
+
 [![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
 
 <hr>
@@ -29,7 +52,7 @@
 </p>
 
 <hr>
-    
+
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)](https://github.com/d4rsen)
@@ -103,9 +126,13 @@
 
 [![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/d4rsen)
 
+<hr>
 
 <img width="200" src="./assets/darsen.png">
 
 [![](https://visitor-badge.glitch.me/badge?page_id=d4rsen&left_color=black&right_color=black)](https://github.com/d4rsen)
+
+</div>
+
 
 </div>
