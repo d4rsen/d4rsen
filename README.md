@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)
+![](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)(https://github.com/d4rsen)
   
 </div>
 
