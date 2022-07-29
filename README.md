@@ -21,12 +21,8 @@
 <hr>
 
 <p align="center">
-  <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
-    src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>
   <a target="_blank" href="https://d4rsen.vercel.app"><img
-    src="https://img.shields.io/badge/d4rsen.vercel.app-20232A?style=for-the-badge&logo=vercel"/></a>
-  <a target="_blank" href="https://t.me/d4rse"><img
-    src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>
+    src="https://img.shields.io/badge/d4rsen.vercel.app-20232A?style=for-the-badge&logo=vercel" width="400px"/></a>
 </p>
 
 <hr>
