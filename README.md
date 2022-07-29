@@ -1,20 +1,10 @@
 <style type="text/css">
     .wrapper {
-        animation: rotate 3s linear infinite;
-    }
-
-    @keyframes rotate {
-        0% {
-            transform: scale(1);
-        }
-
-        50% {
-            transform: scale(0.95);
-        }
-
-        100% {
-            transform: scale(1);
-        }
+        background: rgb(0,243,255);
+        background: -moz-radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
+        background: -webkit-radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
+        background: radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00f3ff",endColorstr="#ff00e6",GradientType=1);
     }
 </style>
 
@@ -22,7 +12,6 @@
 
 [![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
 
-<hr>
 
 <div align="center">
 
