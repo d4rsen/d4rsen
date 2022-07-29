@@ -22,7 +22,7 @@
 
 <p align="center">
   <a target="_blank" href="https://d4rsen.vercel.app"><img
-    src="https://img.shields.io/badge/d4rsen.vercel.app-20232A?style=for-the-badge&logo=vercel" width="400px"/></a>
+    src="https://img.shields.io/badge/check%20out%20my%20website-20232A?style=for-the-badge&logo=vercel" width="480px"/></a>
 </p>
 
 <hr>
