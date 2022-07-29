@@ -38,6 +38,7 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
   ![NextJs](https://img.shields.io/badge/next-20232A?style=for-the-badge&logo=next.js)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
+  ![Mobx](https://img.shields.io/badge/mobx-20232A?style=for-the-badge&logo=mobx)
   ![ReactQuery](https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=reactquery)
   ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
@@ -61,10 +62,29 @@
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
+  ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier)
   ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
   ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+  ![Yarn](https://img.shields.io/badge/yarn-20232A?style=for-the-badge&logo=yarn)
+  ![Jira](https://img.shields.io/badge/jira-20232A?style=for-the-badge&logo=jira&logoColor=blue)
+  ![Swaggger](https://img.shields.io/badge/swagger-20232A?style=for-the-badge&logo=swagger)
+
+</div>
+
+<hr></hr>
+
+<div align="center">
+
+  ![MacOS](https://img.shields.io/badge/MacOS-20232A?style=for-the-badge&logo=apple)
+  ![Webstorm](https://img.shields.io/badge/webstorm-20232A?style=for-the-badge&logo=webstorm)
+  ![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)
+  ![Iterm2](https://img.shields.io/badge/iterm2-20232A?style=for-the-badge&logo=iterm2)
+  ![Todoist](https://img.shields.io/badge/todoist-20232A?style=for-the-badge&logo=todoist)
+  ![Logitech](https://img.shields.io/badge/Logitech-20232A?style=for-the-badge&logo=Logitech)
+
+</details>
 
 </div>
 
