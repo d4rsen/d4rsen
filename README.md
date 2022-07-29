@@ -1,7 +1,3 @@
-<div align="center">
-<img width="150" src="./assets/darsen.png">
-</div>
-
 [![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
 
 <hr>
@@ -33,7 +29,7 @@
 </p>
 
 <hr>
-
+    
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)](https://github.com/d4rsen)
@@ -110,6 +106,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=d4rsen&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/d4rsen)
 
 <br></br>
+
+<img width="200" src="./assets/darsen.png">
 
 [![](https://visitor-badge.glitch.me/badge?page_id=d4rsen&left_color=black&right_color=black)](https://github.com/d4rsen)
 
