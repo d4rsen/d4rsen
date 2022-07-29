@@ -1,16 +1,13 @@
-<div class="wrapper" style="background: rgb(0,243,255);
-        background: -moz-radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
-        background: -webkit-radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);
-        background: radial-gradient(circle, rgba(0,243,255,1) 0%, rgba(255,0,230,1) 100%);">
+<div class="wrapper">
 
 [![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
-
 
 <div align="center">
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Darsen;I+am+a+Frontend+JavaScript%2FTypeScript+developer)](https://github.com/d4rsen)
+
 </div>
 
 <hr>
@@ -114,6 +111,5 @@
 [![](https://visitor-badge.glitch.me/badge?page_id=d4rsen&left_color=black&right_color=black)](https://github.com/d4rsen)
 
 </div>
-
 
 </div>
