@@ -17,7 +17,8 @@
 		            transform: scale(1);
 	            }
 			}
-		</style>
+
+</style>
 
 <div class="wrapper">
 
