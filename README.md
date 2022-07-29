@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<br><br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Darsen;I+am+a+Frontend+JavaScript%2FTypeScript+developer)](https://github.com/d4rsen)
 </div>
@@ -89,23 +89,20 @@
 
 <div align="center">
 
-<br></br>
-
 [![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&langs_count=20&layout=compact)](https://github.com/d4rsen)
 
-<br></br>
-
-[![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)](https://github.com/d4rsen)
-
-<br></br>
-
-[![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/d4rsen)
-
-<br></br>
+<hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=d4rsen&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/d4rsen)
 
-<br></br>
+<hr>
+
+[![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)](https://github.com/d4rsen)
+
+<hr>
+
+[![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/d4rsen)
+
 
 <img width="200" src="./assets/darsen.png">
 
