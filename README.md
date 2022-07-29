@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100" src="./assets/darsen.png">
+<img width="150" src="./assets/darsen.png">
 </div>
 
 [![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
