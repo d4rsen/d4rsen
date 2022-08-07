@@ -42,6 +42,8 @@
 [![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)](https://github.com/d4rsen)
 [![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)](https://github.com/d4rsen)
 [![Scss](https://img.shields.io/badge/scss-20232A?style=for-the-badge&logo=sass)](https://github.com/d4rsen)
+[![Storybook](https://img.shields.io/badge/storybook-20232A?style=for-the-badge&logo=storybook)](https://github.com/d4rsen)
+[![StyledComponents](https://img.shields.io/badge/StyledComponents-20232A?style=for-the-badge&logo=StyledComponents)](https://github.com/d4rsen)
 [![PostCss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A)](https://github.com/d4rsen)
 [![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)](https://github.com/d4rsen)
 [![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)](https://github.com/d4rsen)
@@ -79,8 +81,6 @@
 [![Webstorm](https://img.shields.io/badge/webstorm-20232A?style=for-the-badge&logo=webstorm)](https://github.com/d4rsen)
 [![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/d4rsen)
 [![Iterm2](https://img.shields.io/badge/iterm2-20232A?style=for-the-badge&logo=iterm2)](https://github.com/d4rsen)
-[![Todoist](https://img.shields.io/badge/todoist-20232A?style=for-the-badge&logo=todoist)](https://github.com/d4rsen)
-[![Logitech](https://img.shields.io/badge/Logitech-20232A?style=for-the-badge&logo=Logitech)](https://github.com/d4rsen)
 
 </div>
 
