@@ -104,8 +104,6 @@
 
 <hr>
 
-<img width="200" src="./assets/darsen.png">
-
 [![](https://visitor-badge.glitch.me/badge?page_id=d4rsen&left_color=black&right_color=black)](https://github.com/d4rsen)
 
 </div>
