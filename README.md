@@ -1,7 +1,9 @@
 <div class="wrapper">
 
+<!---
 [![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
-
+-->
+  
 <div align="center">
 
 <hr>
