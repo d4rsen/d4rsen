@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![d4rsen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
+[![d4rsen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
 
 <hr>
 
