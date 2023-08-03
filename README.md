@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical&langs_count=20&layout=compact)](https://github.com/d4rsen)
+[![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=d4rsen&theme=radical&langs_count=20&layout=compact)](https://github.com/d4rsen)
 
 <hr>
 
@@ -100,7 +100,7 @@
 
 <hr>
 
-[![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/d4rsen)
+[![d4rsen's github stats](https://github-readme-stats.vercel.app/api/?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/d4rsen)
 
 <hr>
 
