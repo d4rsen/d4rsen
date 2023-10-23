@@ -13,6 +13,14 @@
 </div>
 
 <hr>
+<div align="center">
+  
+![darse](https://github.com/d4rsen/d4rsen/assets/89852964/9c1904fb-7387-4157-add7-46629919b373)
+
+</div>
+<br>
+
+<hr>
 
 <div align="center">
 
